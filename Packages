@@ -110,3 +110,31 @@ Priority: optional
 Homepage: https://kurtosistech.com
 Description: Install the Kurtosis CLI
 
+Package: kurtosis-cli
+Version: 1.18.2
+Architecture: arm64
+Maintainer: Kurtosis Technologies Inc. <hello@kurtosistech.com>
+Installed-Size: 103228
+Filename: ./kurtosis-cli_1.18.2_linux_arm64.deb
+Size: 42472126
+MD5sum: ff475492d088665ed676c2520d758e53
+SHA1: aba6bfacee492ce3dd92920dd732732a8b8c62a6
+SHA256: f5f6ef4d40745af7f23ffeedd0d602a4108f44995882b6a0b815b54f16787c56
+Priority: optional
+Homepage: https://kurtosistech.com
+Description: Install the Kurtosis CLI
+
+Package: kurtosis-cli
+Version: 1.18.2
+Architecture: amd64
+Maintainer: Kurtosis Technologies Inc. <hello@kurtosistech.com>
+Installed-Size: 109840
+Filename: ./kurtosis-cli_1.18.2_linux_amd64.deb
+Size: 46428716
+MD5sum: 199614659a3d62200981d3eb54497286
+SHA1: 7899a98303d03087659bb09526d39c30bcacdf25
+SHA256: 6522717e33ede4e08b5fd3f2a47689c016c045075777c938f43d4b94e17c760d
+Priority: optional
+Homepage: https://kurtosistech.com
+Description: Install the Kurtosis CLI
+
