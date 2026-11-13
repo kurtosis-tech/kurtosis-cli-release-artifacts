@@ -1,25 +1,25 @@
-Date: Wed, 21 Oct 2026 12:22:50 +0000
+Date: Fri, 13 Nov 2026 12:53:02 +0000
 MD5Sum:
- 58035272036802d542ed8a5dee6b727e             9238 Packages
- 6b0ac93d58d22af626efabf2ba2c16f5             2385 Packages.gz
- 67a0267b5d96132949d58ccf8bb53a99               38 Release
+ 0860b265c7a5577e0c2151a8c3ba33df            10162 Packages
+ afa8d1c5abdc5881c8526b344a9f98c8             2597 Packages.gz
+ 5eb3f6ad62a440e00f5b057b017c27b7               38 Release
  d41d8cd98f00b204e9800998ecf8427e                0 Translation-en
- 3c1248cac7eaab0e23adc4462711aa1c               35 Translation-en.gz
+ 6a96a533550dadac8777ac0c1892e85c               35 Translation-en.gz
 SHA1:
- bbd6fee17d465185e7b48c760d4cf155b0f6dd34             9238 Packages
- cd9afbc58e02d6fe85cca6c739929acdc5d18e7b             2385 Packages.gz
- a456893e7aa872a230ae743b7109e946fd847816               38 Release
+ d0b97437a6cd66cb7a5cda1621191f8a6cdc3ff8            10162 Packages
+ a8ded5cbfcd457567e6a0b4f3ef081082a693f00             2597 Packages.gz
+ c078331ba1fbdd81b2cef4f463af1923bc6f5041               38 Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Translation-en
- a9ce7786e09146faadc896f33d635e7226fff0e2               35 Translation-en.gz
+ 4c5faef1020ee6a6420936ab93344d6bec00d578               35 Translation-en.gz
 SHA256:
- 8facda81b75f12dda6bf36d79c5c8a704f2727889078f71ff593df3c6c188bd7             9238 Packages
- fe5f9115f6b5ac8f6ff6fa83a5362efc44d82cc78c745286f87e392f1e830fa9             2385 Packages.gz
- 9a878a319d8d8f093d41078c073c36080f314fea1a5453050c7c8e3dc1df6219               38 Release
+ d323934c61b10cc66105abd53317e1f6cbfca4e29810f1772ae237500fb9845e            10162 Packages
+ e44855f566e5d0ebcedf964f024895d8e3b26c723eebdf9eb158bca3cda563a8             2597 Packages.gz
+ deeeab27b42e4bf3ff144d12ab78e60ec99069ff5c16716bb9901d616007a9cc               38 Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Translation-en
- b93477ad7e8c9128e12501e7197dd732501c25475491b6fa4ec3589fa46bfcec               35 Translation-en.gz
+ 3b0e1f33adf4fb33fc20a1bf0521d0c615b1e32a503a92384a05e99578a4c46c               35 Translation-en.gz
 SHA512:
- 33c7efeef87ef46809fe9dd63c2ef7b61802bec2a6f7773b99176a7b1c719e95212b6c3c6cb9cb5f7ebec76bdaeeece7db3406047343009c1be88de97915cee9             9238 Packages
- 700a62f8c1f1ac6c6a2d8f0e060756bca6bab6e4f2aabb5d94f84f4bdd908e13f21adc5579d27133b5eff9d24c8f3e4c7f063f5110080dbdd98df0865eb65200             2385 Packages.gz
- a15beba92c1d254474b2b0569cd4a1ae9bea73aa5a7cea21c987ebe498471ba16ddb734c009d68186e0dd27d34721696b35871d8d3d6c5c42b9e172eb8b0e2d9               38 Release
+ 87c597728466cb1cfb1cac7324ea0730ca62383f0247e734e440c3e534836797adf6ec32e18e67c4c50b0f3aa5b4e8174f72a5f56611ec5acf282e741577a11b            10162 Packages
+ a9b70425caeaec823607f684d702f25e0e7b868f9eca574c667ecc8744d8aaab6270999c677f595d70b19ba379f4ae3f76ab5c8316b7491c40e5b56775af2ee1             2597 Packages.gz
+ 3d8dc2062edc395dc4fb61fe66c648f2078c5e8e9d539e5a13de2785ab257dfdbca04554eecc5ccd21d602270fd815097172d51282f43e78509fe8d045574fef               38 Release
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Translation-en
- de004bbadeb9864d029a5b83aac47ecd209c6cd721bb3fe1be597dceb001594909c55b17719389556f38eeefc71029a46bb7823d43298f0f7a8c7d462fc9484b               35 Translation-en.gz
+ 608bea2cca20ea243b8954b73d7e6a4ac342283028aa8b6e64120b7b5c78a6b2c72158d11a75e688c4d209f88716f39aae4283116d56ab44d1615907349f3c75               35 Translation-en.gz
